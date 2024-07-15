@@ -2,6 +2,9 @@
 ## Introduction
 The primary objective of this project is to develop a predictive model that can accurately estimate the sale price of used cars. The model is trained using various features and conditions of the cars provided in the dataset.
 
+## Author 
+Siyuan Zhu
+
 ## Dataset
 The dataset used in this project is provided by the Kaggle competition [How much is your car worth?](https://www.kaggle.com/competitions/usedcars2023/leaderboard). It consists of a wide range of features including car specifications, mileage, condition, and more.
 
@@ -22,5 +25,3 @@ Various models are trained and evaluated including:
 - SVM
 ## Best Model 
 The best performing model in this project was XGBoost with the lowest RMSE of 1,293.21313, ranked 14th out of 549 entries for the accuracy on this Kaggle competition. 
-## Author 
-Siyuan Zhu
